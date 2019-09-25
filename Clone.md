@@ -6,7 +6,7 @@ Cloning a repository means that we create a local copy of the cody provided by t
 git clone "url of the repository"
 
 ```
-![](  URL )
+![](Screenshots/clone2.png)
 
 
 ```
