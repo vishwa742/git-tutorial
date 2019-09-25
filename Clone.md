@@ -9,16 +9,16 @@ git clone "url of the repository"
 ![](Screenshots/clone2.png)
 
 
-```
-git clone "url of the repository"
+### For our case:
 
-```
 > git clone https://github.com/vishwa742/git-tutorial.git
 
 ## Steps to follow while cloning a Repository
  -  aaaaaaaaaaa
  
  -  bbbbbbbbbbb
+ 
    -  ccccccccccc
+   
    -  ddddddd
 
