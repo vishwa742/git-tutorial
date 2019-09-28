@@ -15,7 +15,7 @@ git clone "url of the repository"
 
 ![](Screenshots/main.png)
 
--  Under the repository name click on ![clone or download.](  URL )
+-  Under the repository name click on ![clone or download.](Screenshots/main.png))
  
 - There are two options to clone:
 
