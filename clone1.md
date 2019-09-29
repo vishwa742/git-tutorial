@@ -17,17 +17,21 @@ git clone "url of the repository"
 
 -  Under the repository name click on clone or download
  
+ <img src="Screenshots/clone.png">
+ 
 - There are two options to clone:
 
   -  **Using HTTPS**: To clone the repository using HTTPS, under "Clone with HTTPS" 
   
   - **Using SSH**: To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH.
  
--  Open ![ Git bash](  URL )
+-  Open Git bash
 
 -  Change the current working directory to the location where you want to the cloned directory to be made.
 
 -  Type git clone and paste the URL that you copied
+
+<img src="Screenshots/gitbash.png">
 
 ```
  git clone https://github.com/vishwa742/git-tutorial.git
