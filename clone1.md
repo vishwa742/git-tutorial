@@ -7,15 +7,15 @@ git clone "url of the repository"
 
 ```
 
-![](  URL )
+
 
 
 ## Steps to follow while cloning a Repository
--  On github navigate to the main page of the ![repository.](Screenshots/main.png)
+-  On github navigate to the main page of the 
 
-![](Screenshots/main.png)
+<img src="Screenshots/main.png" width="100" height="100">
 
--  Under the repository name click on ![clone or download.](Screenshots/main.png))
+-  Under the repository name click on clone or download
  
 - There are two options to clone:
 
