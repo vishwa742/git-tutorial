@@ -9,7 +9,7 @@ git clone "url of the repository"
 
 
 ## Steps to follow while cloning a Repository
--  On github navigate to the main page of the 
+-  On github navigate to the main page of the repository
 
 <img src="Screenshots/main.png" width="601" height="300">
 
