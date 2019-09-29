@@ -13,7 +13,7 @@ git clone "url of the repository"
 ## Steps to follow while cloning a Repository
 -  On github navigate to the main page of the 
 
-<img src="Screenshots/main.png" width="501" height="400">
+<img src="Screenshots/main.png" width="501" height="600">
 
 -  Under the repository name click on clone or download
  
