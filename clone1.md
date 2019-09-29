@@ -1,9 +1,9 @@
 # Learning Git
 ## Clone
-Cloning a repository means that we create a local copy of the cody provided by the developer.
+Cloning a repository means that we create a local copy of the code provided by the developer.
 ### Syntax 
 ```
-git clone "url of the repository"
+git clone "https://github.com/YOUR-USERNAME/YOUR-REPOSITORY"
 
 ```
 
