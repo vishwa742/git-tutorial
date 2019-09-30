@@ -20,4 +20,6 @@ Forking allows you to make changes on someone else's repository and propose thes
 
 <img src="Screenshots/fork3.png">
 
--  As we can see from the image we have forked the repository `trial-225`.Originally created by the user ullashjain004, we have created a copy of that repository. Any changes made to the forked repository won't reflect on the original repository.  
+-  As we can see from the image we have forked the repository `trial-225`.Originally created by the user ullashjain004, we have created a copy of that repository.
+
+-  Any changes made to the forked repository, `vishwa742` won't reflect on the original repository, `ullashjain004`.  
