@@ -20,6 +20,8 @@ The **Develop branch** serves as an integration branch of features for developer
 
 We will create a develop branch from the master branch and this develop branch, is the branch in which the team will work on.
 
+<img src="Screenshot/gitFlow.png">
+
 ## Adding a feature
 
 We start off by forking the develop branch and creating a separate feature branch. All changes to be done would be done on this new feature branch.
@@ -38,7 +40,7 @@ Once the testing is complete and the release branch is stable, the Release branc
 
 Hot fixes are minor fixes such as spellings or labels that need to be changed. The master branch is forked to create a new hotfix branch. Commits are made to the hotfix branch to fix the errors. Once the issue is resolved, it is merged back into the master branch and develop branch. It is important to tag the master branch with a version number after merging.
 
-<img src="Screenshot/gitFlow.png">
+
 
 [Clone](clone1.md)
 
