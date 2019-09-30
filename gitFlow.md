@@ -1,8 +1,6 @@
 # gitFlow
 
-gitFlow is a set of guidelines that developers can follow when using [version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control). It is also referred to as a branching model.
-
-gitFlow works around a Central repository. Developers in a team can clone the central repository and then work locally. They can then push the branches to the central repository.
+gitFlow is a set of guidelines that developers can follow when using [version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control). It is also referred to as a branching model. gitFlow works around a Central repository. Developers in a team can clone the central repository and then work locally. They can then push the branches to the central repository.
 
 The four branches in the gitFLow process are :
 
@@ -24,20 +22,12 @@ We will create a develop branch from master branch and this develop branch is th
 
 ### Adding a feature
 
-We start off by forking develop and creating a separate feature branch.
-
-All changes to be done would be done on this new feature branch.
-
-The developers will commit their work to the feature branch.
-
-Once testing is done, the feature branch is merged back into the develop branch.
+We start off by forking develop and creating a separate feature branch. All changes to be done would be done on this new feature branch.
+The developers will commit their work to the feature branch. Once testing is done, the feature branch is merged back into the develop branch.
 
 ### Testing the Stability
 
-The develop branch is an unstable branch as new features are constantly added on to it.
-
-The testing takes place in the Release branch.
-
+The develop branch is an unstable branch as new features are constantly added on to it. The testing takes place in the Release branch.
 The Release branch is created by forking the latest copy of develop branch. The Release branch will contain a pre-determined amount of features. Testing is done on the release branch to see if it is stable.
 
 ### Merging to the Master branch
