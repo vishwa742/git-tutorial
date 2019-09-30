@@ -22,7 +22,7 @@ We will create a develop branch from master branch and this develop branch is th
 
 ## Adding a feature
 
-We start off by forking develop and creating a separate feature branch. All changes to be done would be done on this new feature branch.
+We start off by forking the develop branch and creating a separate feature branch. All changes to be done would be done on this new feature branch.
 The developers will commit their work to the feature branch. Once testing is done, the feature branch is merged back into the develop branch.
 
 ## Testing the Stability
