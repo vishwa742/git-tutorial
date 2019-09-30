@@ -20,7 +20,7 @@ The **Develop branch** serves as an integration branch of features for developer
 
 We will create a develop branch from the master branch and this develop branch, is the branch in which the team will work on.
 
-<img src="Screenshots/gitFlow.png">
+<img src="Screenshots/gitFlow.png" width="300">
 
 ## Adding a feature
 
@@ -42,6 +42,26 @@ Hot fixes are minor fixes such as spellings or labels that need to be changed. T
 
 # Learning Git
 
+[Repository](repository.md)
+
 [Clone](clone1.md)
 
 [Fork](fork.md)
+
+[Branch](branch.md)
+
+[Commit](commit.md)
+
+[Merge](merge.md)
+
+[Checkout](checkout.md)
+
+[Push](push.md)
+
+[Pull](pull.md)
+
+Remote Add / Remove / Show
+
+[Status](status.md)
+
+[Master Branch](masterbranch.md)
