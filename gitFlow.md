@@ -40,10 +40,8 @@ Once the testing is complete and the release branch is stable, the Release branc
 
 Hot fixes are minor fixes such as spellings or labels that need to be changed. The master branch is forked to create a new hotfix branch. Commits are made to the hotfix branch to fix the errors. Once the issue is resolved, it is merged back into the master branch and develop branch. It is important to tag the master branch with a version number after merging.
 
-
+# Learning Git
 
 [Clone](clone1.md)
 
-[Clone](https://github.com/vishwa742/git-tutorial/blob/master/clone1.md)
-
-[Fork](https://github.com/vishwa742/git-tutorial/blob/master/fork.md)
+[Fork](fork.md)
