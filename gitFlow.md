@@ -2,7 +2,7 @@
 
 gitFlow is a set of guidelines that developers can follow when using [version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control). It is also referred to as a branching model. gitFlow works around a Central repository. Developers in a team can clone the central repository and then work locally. 
 
-The four branches in the gitFLow process are :
+The four branches in the gitFlow process are :
 
 1. Master Branch
 
