@@ -20,21 +20,21 @@ The **Develop branch** serves as an integration branch of features for developer
 
 We will create a develop branch from master branch and this develop branch is the branch in which the team will work on.
 
-### Adding a feature
+## Adding a feature
 
 We start off by forking develop and creating a separate feature branch. All changes to be done would be done on this new feature branch.
 The developers will commit their work to the feature branch. Once testing is done, the feature branch is merged back into the develop branch.
 
-### Testing the Stability
+## Testing the Stability
 
 The develop branch is an unstable branch as new features are constantly added on to it. The testing takes place in the Release branch.
 The Release branch is created by forking the latest copy of develop branch. The Release branch will contain a pre-determined amount of features. Testing is done on the release branch to see if it is stable.
 
-### Merging to the Master branch
+## Merging to the Master branch
 
 Once the testing is complete and the release branch is stable, the Release branch is merged into the develop branch and the master branch. Every time a branch is merged into master, we add a version number. This helps  tracking releases and see the history of the project.
 
-### Hotfix Branch
+## Hotfix Branch
 
 Hot fixes are minor fixes such as spellings or labels that need to be changed. The master branch is forked to create a new hotfix branch. Commits are made to the hotfix branch to fix the errors. Once the issue is resolved, it is merged back into the master branch and develop branch. It is important to tag the master branch with a version number after merging.
 
