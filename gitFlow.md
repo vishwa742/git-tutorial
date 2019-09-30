@@ -8,9 +8,9 @@ The four branches in the gitFLow process are :
 
 2. Develop Branch
 
-3. release Branch
+3. Release Branch
 
-4. hotfix Branch
+4. Hotfix Branch
 
 ## How it works
 
@@ -20,7 +20,7 @@ The **Develop branch** serves as an integration branch of features for developer
 
 We will create a develop branch from the master branch and this develop branch, is the branch in which the team will work on.
 
-<img src="Screenshot/gitFlow.png">
+<img src="Screenshots/gitFlow.png">
 
 ## Adding a feature
 
