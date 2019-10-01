@@ -19,6 +19,6 @@ A repository is like a folder for your project. Your project's repository contai
 
   -  You can choose to add a software [license](https://help.github.com/en/articles/licensing-a-repository) for your project. 
   
-  <img src="Screenshots/repo2.png">
+  <img src="Screenshots/repo2.png" width="550">
   
 -  Once you click on create your repository will be created.
