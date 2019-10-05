@@ -58,7 +58,7 @@ Hot fixes are minor fixes such as spellings or labels that need to be changed. T
 
 [Push](push.md)
 
-[Pull](main/pull.md)
+[Pull](git-tutorial/main/pull.md)
 
 Remote Add / Remove / Show
 
